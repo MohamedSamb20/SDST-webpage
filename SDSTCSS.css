@@ -1,0 +1,33 @@
+.Header2{
+  background-color: AliceBlue;
+  color: Blue;
+  padding: 10px;
+  text-align: center;
+  border-style: dotted;
+  border-width: medium;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.Header3 {
+  color: DarkCyan;
+  padding: 15px;
+  text-align: left;
+}
+
+p{
+  text-indent: 50px;
+  color: Blue;
+  color: Black;
+}
+a:link {
+  color: Blue;
+}
+a:visited {
+  color: Purple;
+}
+a:hover {
+  color: Red;
+}
+a:active {
+  color: Green;
+}
